@@ -34,7 +34,7 @@
 ---
 
 ### 📫 Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/prajapathi-deepak-3a3a42231](https://www.linkedin.com/in/deepakprajapathi)
+- [LinkedIn](https://www.linkedin.com/in/deepakprajapathi/)
 - [GitHub](https://github.com/ddeeppak)
 
 > 💡 *I enjoy building clean, efficient UIs and backend APIs, and love learning new tools to solve real-world problems.*
